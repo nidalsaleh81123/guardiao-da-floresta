@@ -13,7 +13,7 @@
 **Competition:** [Build with Gemma: Amazon Eco-Hack](https://kaggle.com/competitions/eco-hack)  
 **Track:** Main Track - Best Amazon Eco-Hack  
 **Prize:** $1,000 USD  
-**Team:** [Your Name]  
+**Team:** Innox 
 **Date:** July 2026
 
 ---
@@ -564,8 +564,8 @@ The Gemma model is subject to [Google's Gemma Terms of Use](https://ai.google.de
 ## 📧 Contact
 
 - **Email:** your.email@example.com
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Kaggle:** [Your Profile](https://kaggle.com/yourusername)
+- **GitHub:** https://github.com/nidalsaleh81123
+- **Kaggle:** https://www.kaggle.com/nidalsaleh
 
 ---
 
